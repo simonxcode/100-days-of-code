@@ -1341,3 +1341,17 @@ Applied for another contract dev role directly on company site. Revised resume a
 There still is a bug with footer being sticky to bottom and screen and not page for all pages except portfolio. 
 
 
+<hr>
+
+## Day 94: October 17, 2020
+
+**Today's Progress**
+Made good progress on a lot of minor things. Changes made to portfolio site were the following:  
+* hide menu button in desktop view
+* make menu button fixed on ever page  
+ * change `z-index` to 1 to hover over footer
+* `position: absolute` for footer in tablet view is actually okay  
+ * when content exceed viewport, footer will still be fixed to bottom of page even if screen is vertically minimize
+
+**Thoughts**
+Need to make footer fixed with `position: absolute` in desktop view because it is still sticky to bottom of viewport when screen is vertically minimize. Also need to start adding header and links to sliding menu button.  
