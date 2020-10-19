@@ -1355,3 +1355,20 @@ Made good progress on a lot of minor things. Changes made to portfolio site were
 
 **Thoughts**
 Need to make footer fixed with `position: absolute` in desktop view because it is still sticky to bottom of viewport when screen is vertically minimize. Also need to start adding header and links to sliding menu button.  
+
+<hr>
+
+## Day 95: October 18, 2020
+
+**Today's Progress**
+Attempted to fix issues with:  
+* *footer* hovering over `nav-items` in `.sidebar`
+* getting `.sidebar` with `.nav-items` to render when menu button is clicked.
+
+Was unsuccessful after attempted 3 solutions for each problem but I am getting close. Will attempt the following approach to solve 2 problems stated:  
+* determine how to not have footer float into  `nav-items`  
+  - may increase padding for footer or `nav-items`  
+* use Sass directive `@extend` to allow one selector to inherit the style of another class  
+ - 	https://sass-lang.com/documentation/at-rules/extend
+
+
