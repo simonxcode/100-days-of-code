@@ -1369,6 +1369,15 @@ Was unsuccessful after attempted 3 solutions for each problem but I am getting c
 * determine how to not have footer float into  `nav-items`  
   - may increase padding for footer or `nav-items`  
 * use Sass directive `@extend` to allow one selector to inherit the style of another class  
- - 	https://sass-lang.com/documentation/at-rules/extend
+  - https://sass-lang.com/documentation/at-rules/extend
 
 
+<hr>
+
+## Day 96: October 19, 2020
+
+**Today's Progress**
+Worked on making side bar collapsible. Attempted to use Sass `@import` rule to import styling from several files into one. The plan was to have access to **layout.module.scss** and **header.module.scss** in **menu.module.scss**. Was unable to get pseudo elements(`::before` and `::after`) to work.
+
+**Thoughts**
+Try CSS/JavaScript approach for collapsible side bar  
