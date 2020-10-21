@@ -1381,3 +1381,13 @@ Worked on making side bar collapsible. Attempted to use Sass `@import` rule to i
 
 **Thoughts**
 Try CSS/JavaScript approach for collapsible side bar  
+
+
+<hr>
+
+## Day 97: October 20, 2020
+
+**Today's Progress**
+ Message recruiters on LinkedIn. Applied for a local Full Stack role at a security company. Attempted collapsible sidebar but was not able to get working yet. Need to work on the following:  
+ * get `collapse` state to properly work with collapsible nav bar
+ * split components in working sample to determine how props is passed down from parent to child 
