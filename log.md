@@ -1391,3 +1391,15 @@ Try CSS/JavaScript approach for collapsible side bar
  Message recruiters on LinkedIn. Applied for a local Full Stack role at a security company. Attempted collapsible sidebar but was not able to get working yet. Need to work on the following:  
  * get `collapse` state to properly work with collapsible nav bar
  * split components in working sample to determine how props is passed down from parent to child 
+
+ <hr>
+
+## Day 98: October 21, 2020
+
+**Today's Progress**
+Applied for a Front End Role at a company servicing sustainable architecture. Had a hard time choosing a color theme for website. Wanted to go dark but was undecided on how dark and with what color. 
+
+
+**Thoughts**
+Definitely was undecided and ended up not making any changes to color scheme. Overall, pretty upset with myself. 
+Need to get better at making decisions and progress instead on trying to  too much get it perfect. 
