@@ -1399,7 +1399,20 @@ Try CSS/JavaScript approach for collapsible side bar
 **Today's Progress**
 Applied for a Front End Role at a company servicing sustainable architecture. Had a hard time choosing a color theme for website. Wanted to go dark but was undecided on how dark and with what color. 
 
-
 **Thoughts**
 Definitely was undecided and ended up not making any changes to color scheme. Overall, pretty upset with myself. 
 Need to get better at making decisions and progress instead on trying to  too much get it perfect. 
+
+<hr>
+
+## Day 99: October 22, 2020
+
+**Today's Progress**
+Broke down example I found from a (blog)[https://www.cloudstormllc.com/blog/27/pure-css-collapsible-left-nav-bar/] for making a collapsible left navbar. Was able to get my (version)[https://codesandbox.io/s/pure-css-collapsible-left-nav-bar-s6x6d?file=/src/App.js:261-262] to work. Attempted to use this example as a guide for simonxcode.com but ran into a issue with template literals:  
+
+ `<header className={headerStyles.header`${collapsedClass`}}>`  
+
+ Possible root causes is syntax or scss name export error. 
+
+ **Thoughts**
+ Not being about to finish launching website by Day 100 is no big deal. Just make sure you finish it ASAP, deploy it and tweet about it. 
