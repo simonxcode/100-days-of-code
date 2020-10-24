@@ -1416,3 +1416,12 @@ Broke down example I found from a (blog)[https://www.cloudstormllc.com/blog/27/p
 
  **Thoughts**
  Not being about to finish launching website by Day 100 is no big deal. Just make sure you finish it ASAP, deploy it and tweet about it. 
+
+
+## Day 100: October 23, 2020
+
+**Today's Progress**
+Attempted to fix yesterday's issue with referencing an object within a template literal. Also, attempted again *Day 97's* approach in creating a class component and declaring a `collapsed` state. Both attempts unfortunately were unsuccessful. 
+
+**Thoughts**
+Unfortunately I was unable to finish **100DaysOfCode** on a high note. I also lost motivation an momentum during the 4th quarter of this challenge. On the bright side, I did get more practice in for problem solving, met inspiring people on Twitter and most importantly was *learning in public*. No back to finishing that portfolio and launching the site! 
